@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liuwenchao)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=liuwenchao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
